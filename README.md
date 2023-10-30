@@ -1,2 +1,2 @@
 # junitDifference
-learning Junit5 and older version's difference
+learning JUnit difference between 5 and older than 5 version.
